@@ -24,7 +24,7 @@ public class HashMapObject {
 }
 class HashMapObjectExercise {
     // Tạo một function Exercise để chạy ví dụ
-    public static void Exercise() {
+    public static void exercise() {
         // Khởi tạo hashMap
         Map<Integer, HashMapObject> mapObject = new HashMap<>();
         // Method put sẽ add vào HashMap một phần tử bao gồm key và 1 đối tượng HashMapObject
